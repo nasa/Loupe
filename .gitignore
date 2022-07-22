@@ -1,0 +1,7 @@
+*.log
+*.dat
+*.emd
+src/main/python/SPAR/
+*__pycache__
+*test_data
+parse_dat_files.py

@@ -1,0 +1,6 @@
+{
+    "app_name": "Loupe",
+    "author": "Kyle Uckert",
+    "main_module": "src/main/python/main.py",
+    "version": "5.1.5"
+}
